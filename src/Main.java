@@ -4,5 +4,9 @@ public class Main {
         System.out.println("Nurkamil");
         System.out.println("Temirbekov Aliaskar");
         System.out.println("Welcome to Java 12");
+
+
+        Ali ali = new Ali();
+        ali.boo();
     }
 }
