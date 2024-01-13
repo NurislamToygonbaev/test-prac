@@ -8,5 +8,7 @@ public class Main {
 
         Ali ali = new Ali();
         ali.boo();
+        Nur nur = new Nur();
+        nur.method();
     }
 }
