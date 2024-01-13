@@ -4,5 +4,8 @@ public class Main {
         System.out.println("Nurkamil");
         System.out.println("Temirbekov Aliaskar");
         System.out.println("Welcome to Java 12");
+
+        Nur nur = new Nur();
+        nur.method();
     }
 }
